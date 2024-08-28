@@ -27,13 +27,16 @@ Similarity scores were calculated using a Word2Vec model trained on skincare pro
 
 ### Data Analysis
 
-<img src="/imgages/picture1.png">
-<img src="https://github.com/Lexi821/final_project_2M_cis467/blob/main/final_project_2M_cis467/Dashboard%202.png">
-<img src="https://github.com/Lexi821/final_project_2M_cis467/blob/main/final_project_2M_cis467/Dashboard%202.png">
-<img src="https://github.com/Lexi821/final_project_2M_cis467/blob/main/final_project_2M_cis467/Dashboard%202.png">
+![Data Analysis](/images/Picture1.png)
+<img src="/images/Picture2.png">
+<img src="/images/Picture3.png">
+<img src="/images/Picture4.png">
+<img src="/images/Picture5.png">
+
 
 
 ### Visualization
+
 
 <img src="https://github.com/Lexi821/final_project_2M_cis467/blob/main/final_project_2M_cis467/Dashboard%202.png">
 
