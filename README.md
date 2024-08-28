@@ -37,23 +37,29 @@ Similarity scores were calculated using a Word2Vec model trained on skincare pro
 
 ### Visualization
 
+Embedding projector:
 
-<img src="https://github.com/Lexi821/final_project_2M_cis467/blob/main/final_project_2M_cis467/Dashboard%202.png">
+<img src="/images/projector1.png">
+<img src="/images/projector2.png">
+
 
 ### Results
 
-The analysis results are summarized as follows:
-1. The company's sales are relatively stable, with a noticeable peak during the holiday season(Dec, Jan).
-2. "Dairy products" is the best-performing category in terms of sales, quantity and number of customers.
-3. The United States has the highest sales among all regions.
+The baseline scores are the similarity between vector(acne) and three outcome parameters. The baseline scores were as follows:
+Healthy: 0.021453; Scar: 0.550615; Smooth: 0.182928
+The following are the scores for each treatment compared to the baseline:
+|Treatment|	Healthy	|Scar	|Smooth|
+|---|---|---|---|
+|Baseline(acne)|	0.021453235|	0.55061525	|0.18292814|
+|Lactic	|0.05534291|	0.4666556|	0.21564613|
+|Salicylic|	0.106446415	|0.53010076	|0.21828108|
+|Vitamin|	0.06563923	|0.47145757	|0.2952657|
+|Herbal| 	0.18950157|	0.37556463|	0.23659256|
 
 ### Recommendations
 
-Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Dairy products.
-- focus on the U.S. market and increase promotion of high-selling products in this region, such as beverages and meat..
-
-
+- Herbal Remedies may offer the most comprehensive benefits across the measured skin health outcomes while all treatments offer some improvement over untreated acne. 
+- For smoother skin: Consider Vitamin Treatments as a potential primary recommendation.
+- For a broad treatment strategy: Herbal Remedies could be recommended due to their strong association with positive outcomes across all categories.
 
 
