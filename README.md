@@ -9,9 +9,9 @@
 - [Visualization](#visualization)
 - [Results](#results)
 - [Recommendations](#recommendations)
+---
 
 ### Project Overview
----
 
 The primary objective of this project is to analyze the efficacy of various acne treatments by examining their semantic associations with positive skin health outcomes, such as reduced scarring, smoother skin, and overall skin health improvement. The goal is to identify which treatments are most closely related to desirable outcomes, providing insights that can inform product recommendations and treatment strategies.
 
@@ -58,8 +58,6 @@ The following are the scores for each treatment compared to the baseline:
 
 ### Recommendations
 
-- Herbal Remedies may offer the most comprehensive benefits across the measured skin health outcomes while all treatments offer some improvement over untreated acne. 
-- For smoother skin: Consider Vitamin Treatments as a potential primary recommendation.
-- For a broad treatment strategy: Herbal Remedies could be recommended due to their strong association with positive outcomes across all categories.
+Herbal Remedies may offer the most comprehensive benefits across the measured skin health outcomes while all treatments offer some improvement over untreated acne. For smoother skin: Consider Vitamin Treatments as a potential primary recommendation. For a broad treatment strategy: Herbal Remedies could be recommended due to their strong association with positive outcomes across all categories.
 
 
